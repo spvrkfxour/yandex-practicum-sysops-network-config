@@ -455,4 +455,6 @@ server2 (VLAN 20)
 <br><br>
 
 <img width="343" height="331" alt="image" src="https://github.com/user-attachments/assets/8d7b0aa6-f7d0-400c-87ab-c327c1bb0044" />
+<br><br>
 
+pkt файл: https://disk.yandex.ru/d/qm_p-pLSnInWpw
